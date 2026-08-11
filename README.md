@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0238-product-of-array-except-self](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0371-sum-of-two-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
