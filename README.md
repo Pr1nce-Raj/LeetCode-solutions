@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
