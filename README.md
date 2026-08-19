@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
