@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0125-valid-palindrome) |
@@ -102,4 +103,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
