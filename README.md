@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [1929-concatenation-of-array](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Pr1nce-Raj/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
