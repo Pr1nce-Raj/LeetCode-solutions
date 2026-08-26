@@ -8,7 +8,7 @@ class Solution(object):
             if digits[i]<9:
                 digits[i]=digits[i]+1
                 return digits
-            if digits[i]==9:
-                digits[i]=0
-        digits.insert(0,1)
-        return digits
+            digits[i]=0
+        edge_arr =[0]*(len(digits)+1)
+        edge_arr[0]=1
+        return edge_arr
